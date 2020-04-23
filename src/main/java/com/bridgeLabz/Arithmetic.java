@@ -15,4 +15,8 @@ public class Arithmetic {
     public int computeMultiplication(int a,int b) {
         return a * b;
     }
+
+    public int computeDivision(int a,int b) {
+        return a / b;
+    }
 }

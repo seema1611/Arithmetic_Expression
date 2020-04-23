@@ -22,4 +22,9 @@ public class ArithmeticTest {
     public void givenTwoInput_WhenMulti_ShouldReturnMultiplication() {
         Assert.assertEquals(48,arithmatic.computeMultiplication(12,4));
     }
+
+    @Test
+    public void givenTwoInput_WhenDiv_ShouldReturnDivision() {
+        Assert.assertEquals(10,arithmatic.computeDivision(50,5));
+    }
 }
