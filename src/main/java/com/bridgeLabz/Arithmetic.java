@@ -11,4 +11,8 @@ public class Arithmetic {
     public int computeSubtraction(int a,int b) {
         return a - b;
     }
+
+    public int computeMultiplication(int a,int b) {
+        return a * b;
+    }
 }

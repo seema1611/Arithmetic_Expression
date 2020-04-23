@@ -17,4 +17,9 @@ public class ArithmeticTest {
     public void givenTwoInput_WhenSub_ShouldReturnDifference() {
         Assert.assertEquals(4,arithmatic.computeSubtraction(6,2));
     }
+
+    @Test
+    public void givenTwoInput_WhenMulti_ShouldReturnMultiplication() {
+        Assert.assertEquals(48,arithmatic.computeMultiplication(12,4));
+    }
 }

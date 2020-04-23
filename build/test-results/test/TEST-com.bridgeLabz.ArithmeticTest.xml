@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgeLabz.ArithmeticTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-23T05:12:01" hostname="LAPTOP-4IU1M5UJ" time="0.002">
+<testsuite name="com.bridgeLabz.ArithmeticTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-04-23T05:16:21" hostname="LAPTOP-4IU1M5UJ" time="0.002">
   <properties/>
+  <testcase name="givenTwoInput_WhenMulti_ShouldReturnMultiplication" classname="com.bridgeLabz.ArithmeticTest" time="0.001"/>
   <testcase name="givenTwoInput_WhenSub_ShouldReturnDifference" classname="com.bridgeLabz.ArithmeticTest" time="0.001"/>
   <testcase name="givenTwoInput_WhenAdd_ShouldReturnSum" classname="com.bridgeLabz.ArithmeticTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
